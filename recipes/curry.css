@@ -1,0 +1,25 @@
+img{
+    height: 300px;
+    width: auto;
+}
+ul{
+    font-weight: 470;
+    font-size: larger;
+}
+ol{
+    font-weight: 470;
+    font-size: larger;
+}
+
+p{
+    font-size: larger;
+
+}
+h2{
+    background-color: aqua;
+   font-weight: bold;
+}
+h1{
+    background-color: aqua;
+    font-weight: bold;
+}

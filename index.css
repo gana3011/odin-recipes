@@ -1,0 +1,21 @@
+h1{
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+}
+strong{
+    font-size: 25px;
+}
+h2{
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+}
+ul{
+    font-size: 20px;
+}
+.chef1{
+    height: fit-content;
+    width: fit-content;
+    image-orientation: center;
+}

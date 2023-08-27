@@ -1,0 +1,24 @@
+img{
+    height: 300px;
+    width: auto;
+}
+
+ul{
+    font-weight: 470;
+    font-size: larger;
+}
+ol{
+    font-weight: 470;
+    font-size: larger;
+}
+.chicken{
+    background-color: aqua;
+}
+p{
+    font-size: larger;
+
+}
+h2{
+    background-color: aqua;
+   font-weight: bold;
+}
